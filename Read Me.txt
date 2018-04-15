@@ -1,0 +1,13 @@
+***************************Arduino Oled Clock Project*****************************
+**********************************************************************************
+
+The first File is arduino code, before uploading the code upload "set time" example from the "DS1307RTC" library then upload "oled_clk" code provided here.
+The second file is gerber file of pcb, so all you need to just provide that zipped gerber file to PCB manufacturer.
+The third file is oled clock software for fritzing so you need to import this oled clock software & then you can find this part in Mine Section of the Parts window of fritzing.
+The fourth file is Fritzing project file, you can open it in Fritzing software & then you can make any chgange to my PCB & generate new gerber file, you can have access to my very first PCB & schmatics of this project through this file.
+The last file is schmatics file for the reference & understand the circuit & connections because during PCB design my circuit got messy so i am including this.
+
+**********************************************************************************
+**********************************************************************************
+
+Video - https://youtu.be/miED9HFTPw8
